@@ -1,4 +1,4 @@
-# Pimoroni Grow 2024
+# Pimoroni Grow 2025
 
 This repo contains modified instructions for Pimoroni's Grow kit, as the latest software updates mean the original instructions don't work right out of the box. 
 
